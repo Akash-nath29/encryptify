@@ -50,4 +50,4 @@ Encryptify is lovingly crafted by the one and only [Akash Nath](https://tinyurl.
 
 ## License 📜
 
-Encryptify operates under the enchanting spell of the [MIT License](https://github.com/Akash-nath29/Encryptify/blob/main/LICENSE). Your journey into the world of binary wonders has just begun! 🌌
+Encryptify operates under the enchanting spell of the [MIT License](https://github.com/Akash-nath29/encryptify/blob/main/LICENSE). Your journey into the world of binary wonders has just begun! 🌌
