@@ -21,6 +21,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=long_description,
     packages=find_packages(),
+    install_requires=[],
     keywords=['python', 'encryption', 'decryption', 'cryptography', 'visual effect', 'binary data'],
     classifiers=[
         "Development Status :: 1 - Planning",
