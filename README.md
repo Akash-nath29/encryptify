@@ -42,12 +42,12 @@ print(decrypted_data)  # Output: "HELLO WORLD"
 
 ## Join the Adventure! 🌐
 
-Ready to contribute to the magic of BinaryCrypt? If you stumble upon any enigmatic issues or have brilliant ideas, feel free to open an issue or pull request on [GitHub](https://github.com/Akash-nath29/BinaryCrypt). Let's unravel this puzzle together!
+Ready to contribute to the magic of Encryptify? If you stumble upon any enigmatic issues or have brilliant ideas, feel free to open an issue or pull request on [GitHub](https://github.com/Akash-nath29/BinaryCrypt). Let's unravel this puzzle together!
 
 ## Credits 🙌
 
-BinaryCrypt is lovingly crafted by the one and only [Akash Nath](https://tinyurl.com/akash-nath). Dive into his world of innovation by following him on [GitHub](https://github.com/Akash-nath29)!
+Encryptify is lovingly crafted by the one and only [Akash Nath](https://tinyurl.com/akash-nath). Dive into his world of innovation by following him on [GitHub](https://github.com/Akash-nath29)!
 
 ## License 📜
 
-BinaryCrypt operates under the enchanting spell of the [MIT License](https://github.com/Akash-nath29/Encryptify/blob/main/LICENSE). Your journey into the world of binary wonders has just begun! 🌌
+Encryptify operates under the enchanting spell of the [MIT License](https://github.com/Akash-nath29/Encryptify/blob/main/LICENSE). Your journey into the world of binary wonders has just begun! 🌌
